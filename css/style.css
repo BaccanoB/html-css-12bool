@@ -1,6 +1,6 @@
 /* common */
 
-[class*= "col-"] {
+.contained {
     border: 1px solid black;
     position: relative;
     text-align: center;
