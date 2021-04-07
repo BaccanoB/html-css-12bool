@@ -1,0 +1,105 @@
+/* common */
+
+body {
+    background-color: rgb(77, 75, 75);
+}
+
+[class*= "col-"] {
+    height: 100%;
+    min-height: 20px;
+    position: relative;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+}
+
+#container{
+    height: 200px;
+    padding: 30px 0;
+}
+
+#avatar {
+    padding:0 30px 70px 30px;
+}
+
+/* capelli */
+
+.dark-brown {
+    background-color: #2B1A12;
+}
+
+.brown {
+    background-color: #533121;
+}
+
+.light-brown2 {
+    background-color: #613f2d;
+}
+
+.light-brown3 {
+    background-color: #704833;
+}
+
+.light-brown {
+    background-color: #7F5036;
+}
+
+/* pelle */
+
+.dark-skin{
+    background-color: #D2713F;
+}
+
+.medium-skin {
+    background-color: #EBA069;
+}
+
+.skin {
+    background-color: #EFB385;
+}
+
+/* occhi */
+
+.black {
+    background-color: black;
+}
+
+/* vestiti */
+
+.dark-grey {
+    background-color: #20242D;
+}
+
+.dark-grey2 {
+    background-color: #2c313d;
+}
+
+.dark-grey3{
+    background-color: #3d4352;
+}
+
+.dark-grey4 {
+    background-color: #4d5569;
+}
+
+.light-grey {
+    background-color: #848590;
+}
+
+.light-grey2 {
+    background-color: #AFB3BC;
+}
+
+.light-grey3 {
+    background-color: #92929D;
+}
+
+.red {
+    background-color: #88362E;
+}
+
+.light-red {
+    background-color: #a0453c;
+}
