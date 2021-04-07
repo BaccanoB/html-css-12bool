@@ -1,7 +1,26 @@
+/* common */
+
+[class*= "col-"] {
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+}
+
+.text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+}
+
+/* body */
+
 .colored {
     background-color: #F07F80;
+    border: 1px solid white;
 }
 
 .p-col {
     padding: 5px;
 }
+
