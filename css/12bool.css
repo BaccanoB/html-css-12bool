@@ -3,12 +3,12 @@
 .debug .container {
     height: 100%;
     min-height: 200px;
+    background-color: #FFC0CB;
 }
 
 .debug [class*= "col-"] {
     height: 100%;
     min-height: 200px;
-    background-color: #FFC0CB;
     border: 1px solid black;
 }
 
